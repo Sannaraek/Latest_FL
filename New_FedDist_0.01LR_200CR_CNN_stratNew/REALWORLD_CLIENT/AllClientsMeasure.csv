@@ -1,0 +1,6 @@
+Results on individual client models on ALL testsets,
+Client Best Model Round:,38
+Client Accuracy:,0.6892
+Client weighted f1:,0.6889
+Client micro f1:,0.6892
+Client macro f1:,0.7089
